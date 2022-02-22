@@ -1,0 +1,148 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>By the King a proclamation for restraining the abuses in tinne, according to the lawes and ordinances of the stanneries.</title>
+            <author>England and Wales. Sovereign (1603-1625 : James I)</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1615</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 9 KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A22124</idno>
+            <idno type="STC">STC 8530</idno>
+            <idno type="STC">ESTC S3470</idno>
+            <idno type="EEBO-CITATION">33150116</idno>
+            <idno type="OCLC">ocm 33150116</idno>
+            <idno type="VID">28529</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A22124)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 28529)</note>
+            <note>Images scanned from microfilm: (Early English books, 1475-1640 ; 1875:76)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>By the King a proclamation for restraining the abuses in tinne, according to the lawes and ordinances of the stanneries.</title>
+                  <author>England and Wales. Sovereign (1603-1625 : James I)</author>
+                  <author>James I, King of England, 1566-1625.</author>
+               </titleStmt>
+               <extent>3 leaves.   </extent>
+               <publicationStmt>
+                  <publisher>By Robert Barker, Printer to the Kings most excellent Maiestie,</publisher>
+                  <pubPlace>Imprinted at London :</pubPlace>
+                  <date>Anno Dom. 1615.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>"Giuen at Royston the 26. day of October, in the thirteenth yeere of Our Raigne of Great Britaine, France and Ireland, and of Scotland the nine and fourtieth."</note>
+                  <note>Reproduction of original in: Society of Antiquaries.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Tin industry --  Law and legislation --  Great Britain --  Early works to 1800.</term>
+               <term>Smuggling --  Great Britain --  Early works to 1800.</term>
+               <term>Great Britain --  History --  James I, 1603-1625.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-04</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-05</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-03</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2010-03</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="royal_proclamation">
+            <pb facs="tcp:28529:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 46 -->
+            <head>
+               <figure>
+                  <q>HONI SOIT QVI MAL Y PENSE</q>
+                  <figDesc>royal blazon of the House of Stuart</figDesc>
+               </figure>
+            </head>
+            <head>
+               <g ref="char:leaf">❧</g> By the King. ¶ A Proclamation for reſtraining the abuſes in Tinne, according to the Lawes and ordinances of the Stanneries.</head>
+            <p>
+               <hi>
+                  <seg rend="decorInit">W</seg>Hereas for the well ordering of that ancient and Royall</hi> Com<g ref="char:EOLhyphen"/>moditie of the Tinne of this Our Realme of England, diuers and ſundrie good Lawes and Ordinances haue beene heretofore made &amp; eſtabliſhed, by the wiſedome of former times; amongſt which there hath been euer ſpeciall care and prouiſion, that all the ſayd Tinne ſhould be duely brought to Our Coynage beames, and there tried and aſſayed, and by Our Stampe or Marke ſealed and allowed, be<g ref="char:EOLhyphen"/>fore the ſame ſhould bee put to Sale within the Land, or offered to be ſhipped for forreigne Vent: And to that end alſo our noble Progenitors haue been at charge to crect and maintaine certaine Coynage houſes in ſeuerall ſet Townes within Our Counties of Deuon and Cornewall, lying moſt commodious for the ſayd Coynage: At which places at certaine ſet dayes of Coynage and poſt Coynage appointed, Our ſpeciall Officers of the Stan<g ref="char:EOLhyphen"/>neries, doe, and haue been wont duely to attend to Receiue, Trie, Aſſay, Coyne, Seale, and allow the ſayd Tinne, by ſetting Our Marke, Seale or Stampe vpon the ſame: By which meanes both Wee Our ſelfe were ſecured of the preemption and Coynage dueties of the ſayd Tinne (being auncient and vndoubted Prerogatiues annexed to Our Crowne, with our Du<g ref="char:EOLhyphen"/>thie of Cornwall) and alſo the Tinne had his iuſt and true Aſſay, according to the goodneſſe and richneſſe of it, that neither Our owne Subiects nor others might be defrauded in the buy<g ref="char:EOLhyphen"/>ing of the ſame, nor yet the Subiect hindered by any vnneceſſary delay in the lawfull Tra<g ref="char:EOLhyphen"/>ding and Merchandizing thereof. And whereas out of Our princely care to cheriſh and main<g ref="char:EOLhyphen"/>taine the Trade and working of ſuch a worthy and Staple Commodity, of ſo much honor and profit to this Commonwealth, Wee haue not long ſince taken order to allow a greater price for the working and making thereof, then euer was giuen before; and haue alſo by the extra<g ref="char:EOLhyphen"/>ordinary care and induſtry of Our right truſtie and right welbeloued Coſin and Counſellour, <hi>Thomas</hi> Earle of Suffolke, Our high Treaſurer of England, and of Our truſtie and Right welbeloued Counſeller, Sir <hi>Foulke Greuill,</hi> Knight, Chauncellour of our Exchequer, lately ſet<g ref="char:EOLhyphen"/>led
+<pb facs="tcp:28529:2"/>
+               <!-- PDF PAGE 47 -->the ſayd Tinne workes and Tinne buſineſſe, in a more orderly and better courſe then euer before it was, aſwell for the benefit of Our moſt deare Sonne <hi>CHARLES</hi> the Prince, to whom Wee haue lately made Liuerie of Our ſayd Duchie of Cornewall, as for the contentment and ſatiſfaction of Our louing Subiects the Merchants and Pewterers of London, and other places, from whoſe Petitions and Complaints, We could neuer be free before.</p>
+            <p>Bet neuertheleſſe, We are informed that by the ſecret practiſe and combination of ſundry ill minded and couetous Owners and workemen of the ſayd Tinne workes, a great part of the ſaid Tinne hath been heretofore, and daily is Bought &amp; Sold, Receiued, Deliuered, and ca<g ref="char:EOLhyphen"/>ried away vncoyned, aſwell in Shippes and other veſſels, which vnder colour of comming to buy Corniſh Slate and Stone vpon the Coaſt of Cornewall, betweene <hi>Foway</hi> and <hi>Meuagaſe,</hi> doe imbeſell much vncoyned Tinne in Blockes, as alſo by Marriners and Seafaring men, who buy vp the Tinne in Barres, commonly called Pocket Tinne, of Pewterers and o<g ref="char:EOLhyphen"/>thers, contrary to the auncient Ordinances of Our Stanneries aforeſayd, to Our preindice and wrong in Our ſayd Prerogatiue, the diſgracing of Our ſayd Commoditie, and abuſe of Our Subiects buying the ſame vntried, and not Aſſayed. In reſpect whereof, as Wee might moſt iuſtly take aduantage of ſundry offenders notoriouſly faultie in this behalfe, which in Our naturall inclination to Mercie and Pardon, Wee are graciouſly contented to paſſe by, ſo Wee cannot in Our Princely care of the Common wealth, and Our owne Right, but pro<g ref="char:EOLhyphen"/>uide for redreſſe and reformation of theſe great diſorders for the time to come. And therefore doe by theſe preſents ſtraightly charge and commaund aſwell all and ſingular Our louing Subiects, as all other perſon and perſons whatſoeuer, that none of them preſume vpon any colour, ſhift or pretence whatſoeuer, at any time or times hereafter, to Vtter, Sell, Deliuer, or put to Sale, or to Receiue, Ship, carie, land or contract for any blacke Tinne vnblowen, but to ſuch as cauſe the ſame to be Caſt and blowen before it be ſold for vſe, or any white Tinne, or Caſt Tinne before it be firſt Coyned and Stamped with our Seale or Marke, appointed for that purpoſe as aforeſayd, vpon paine of forfeiture, aſwell of the ſayd Tinne and other condigne puniſhment in caſe of land cariage, as alſo of confiſcation of the Shippes, Hoyes, Barques, Lighters, and other Veſſels wherein any ſuch prohibited Tinne ſhall be ſhipped, or laden for Tranſportation, contrary to the intendment of this Our Proclamation; and alſo vpon paine of Our high diſpleaſure, and of ſuch further penalties, forfeitures, and puniſhments in both caſes, as by the Statutes and Ordinances of Our ſayd Stanneries, or any other Lawe or Statute whatſoeuer, or by the cenſure of Our high Court of Starre chamber, for diſobeying this Our Royall commandement and Iniunction, or otherwiſe may bee inflicted vpon the of<g ref="char:EOLhyphen"/>fenders in this behalfe: Giuing all Our louing Subiects to know, that any toleration or for<g ref="char:EOLhyphen"/>bearance for the time paſt, ſhall be ſo farre from iuſtifying or warranting the like abuſes to be continued in time to come, as contrariwiſe it ſhal aggrauate the fault thereof in reſpect of Our former clemencie.</p>
+            <p>And whereas Wee are giuen to vnderſtand, That there are certaine wandring petie Chap<g ref="char:EOLhyphen"/>men, or Tinkers, and others, haunting much about the Tinne workes aforeſaid, who doe make it an vſuall Trade to buy blacke Tinne by the Bowle, and white Tinne vncoyned by the pound weight, or other ſmall quantitie; and ſo doe carie the ſame from the worke houſes to
+<pb facs="tcp:28529:3"/>
+               <!-- PDF PAGE 48 -->certaine priuate places of Receipt, till hauing gotten by this vnlawfull meanes ſome ſtore to<g ref="char:EOLhyphen"/>gether, they vent or ſpend the ſaid blacke Tinne before it bee blowen, and ſell the ſaid white Tinne before it be Coyned, by Sea or by Land, where they find beſt Chapmen, to the prein<g ref="char:EOLhyphen"/>dice of Vs and Our louing Subiects, as aforeſaid: Our will and pleaſure is, and Wee ſtrait<g ref="char:EOLhyphen"/>ly charge and command all and ſingular Our Iuſtices of Peace, before whom any ſuch Tin<g ref="char:EOLhyphen"/>ker, petic Chapman, or other perſon offending ſhall bee brought, diligently to examine and finde out, where, and of whom he had the ſayd prohibited Tinne, white or blacke, found with him, and where, and to whom hee meant, or intended to ſell the ſame, or hath heretofore ſold any other of like ſort; and aſwell the ſaid Tinkers and petie Chapmen, as all other perſons who ſhall be found priuie to the Buying, or Selling, Receiuing, or Deliuering of the ſayd Tinne, blacke or white, as aforeſayd, to commit to Our Gaole of the Countie where they ſhal be taken, and otherwiſe to puniſh according to the Lawes, Cuſtomes, and Ordinances of Our Stannerics, and as the quality and nature of the offence ſhall by the Lawes and Sta<g ref="char:EOLhyphen"/>tutes of this Realme deſerue, for contempt of Our Royall Commandement and Proclama<g ref="char:EOLhyphen"/>tion in this behalfe: Willing, and requiring all and ſingular Our Shiriffes, Mayors, Bay<g ref="char:EOLhyphen"/>liffes, Conſtables, and other Our Officers and louing Subiects, to Attach, Stay, and Ar<g ref="char:EOLhyphen"/>reſt all ſuch Purloyners and ſecret Cariers of Tinne, blacke or white, and to bring them be<g ref="char:EOLhyphen"/>fore the next Iuſtice of Peace, for order to bee taken with them, as aforeſayd, as they and eue<g ref="char:EOLhyphen"/>ry of them will anſwere for the contrary hereof at their vttermoſt perils.</p>
+            <closer>
+               <dateline>Giuen at Royſton <date>the 26. day of October, in the thirteenth yeere of Our Raigne of Great Britaine, France and Ireland, and of Scotland the nine and fourtieth.</date>
+               </dateline>
+               <lb/>
+God ſaue the King.</closer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <g ref="char:leaf">❧</g> Imprinted at London by Robert Barker, Printer to the Kings moſt excellent Maieſtie. Anno Dom. 1615.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
